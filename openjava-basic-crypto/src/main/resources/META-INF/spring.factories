@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  cn.openjava.basic.crypto.properties.CryptoProperties,\
+  cn.openjava.basic.crypto.utils.CryptoUtil

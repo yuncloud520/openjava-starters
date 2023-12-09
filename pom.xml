@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>cn.openjava</groupId>
+    <artifactId>openjava-starters</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <description>openjava-starters</description>
+    <modules>
+        <module>openjava-spring-boot-starter</module>
+        <module>openjava-starters-parent</module>
+        <module>openjava-basic-crypto</module>
+    </modules>
+</project>
