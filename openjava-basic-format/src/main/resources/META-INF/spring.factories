@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  cn.openjava.basic.format.advice.ControllerExceptionAdvice,\
+  cn.openjava.basic.format.error.ErrorPageConfig,\
+  cn.openjava.basic.format.properties.BasicProperties

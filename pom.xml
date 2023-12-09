@@ -12,5 +12,10 @@
         <module>openjava-spring-boot-starter</module>
         <module>openjava-starters-parent</module>
         <module>openjava-basic-crypto</module>
+        <module>openjava-basic-format</module>
+        <module>openjava-dubbo-nacos-spring-boot-starter</module>
+        <module>openjava-easyexcel-starter</module>
+        <module>openjava-es-spring-boot-starter</module>
+        <module>openjava-flowable-spring-boot-starter</module>
     </modules>
 </project>

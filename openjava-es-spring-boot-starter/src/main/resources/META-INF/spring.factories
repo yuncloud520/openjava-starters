@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  cn.openjava.es.starter.config.ESClientConfig,\
+  cn.openjava.es.starter.properties.ESClientProperties

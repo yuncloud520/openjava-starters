@@ -1,0 +1,11 @@
+${AnsiColor.BRIGHT_GREEN}
+mmm    mmm    mmmm            mmm    mmm mm    mm  mmm   mm     mmmm   mm          mmmm    mm    mm  mmmmm
+ ##m  m##   ##""""#            ##m  m##  ##    ##  ###   ##   ##""""#  ##         ##""##   ##    ##  ##"""##
+  ##mm##   ##"                  ##mm##   ##    ##  ##"#  ##  ##"       ##        ##    ##  ##    ##  ##    ##
+   "##"    ##                    "##"    ##    ##  ## ## ##  ##        ##        ##    ##  ##    ##  ##    ##
+    ##     ##m        #####       ##     ##    ##  ##  #m##  ##m       ##        ##    ##  ##    ##  ##    ##
+    ##      ##mmmm#               ##     "##mm##"  ##   ###   ##mmmm#  ##mmmmmm   ##mm##   "##mm##"  ##mmm##
+    ""        """"                ""       """"    ""   """     """"   """"""""    """"      """"    """""
+
+spring-boot版本：${spring-boot.version}    环境变量：${spring.profiles.active}
+${AnsiColor.BLACK}
