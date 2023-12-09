@@ -17,5 +17,9 @@
         <module>openjava-easyexcel-starter</module>
         <module>openjava-es-spring-boot-starter</module>
         <module>openjava-flowable-spring-boot-starter</module>
+        <module>openjava-minio-spring-boot-starter</module>
+        <module>openjava-mybatis-plus-spring-boot-starter</module>
+        <module>openjava-nacos-spring-boot-starter</module>
+        <module>openjava-openapi-spring-boot-starter</module>
     </modules>
 </project>

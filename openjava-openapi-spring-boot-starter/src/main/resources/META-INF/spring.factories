@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  cn.openjava.openapi.starter.config.SpringFoxSwaggerConfig,\
+  cn.openjava.openapi.starter.properties.OpenApiProperties

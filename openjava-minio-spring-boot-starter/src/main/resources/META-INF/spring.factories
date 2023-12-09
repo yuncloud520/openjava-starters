@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  cn.openjava.minio.starter.utils.MinIoUtil,\
+  cn.openjava.minio.starter.properties.MinioProperties

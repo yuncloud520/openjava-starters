@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  cn.openjava.mybatis.plus.starter.config.DefaultMyBatisPlusConfig,\
+  cn.openjava.mybatis.plus.starter.interceptor.DBCryptoInterceptor
