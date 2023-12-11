@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  cn.openjava.oss.starter.utils.OSSUtil,\
+  cn.openjava.oss.starter.properties.OSSProperties

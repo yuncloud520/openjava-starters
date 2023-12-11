@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component;
 @Getter
 @Setter
 @Component
-@ConfigurationProperties(prefix = "yc.crypto")
+@ConfigurationProperties(prefix = "openjava.crypto")
 public class CryptoProperties {
     /**
      * 是否开启加密

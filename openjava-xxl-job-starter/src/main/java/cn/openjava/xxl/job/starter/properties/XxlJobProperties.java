@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 @Getter
 @Setter
 @Component
-@ConfigurationProperties(prefix = "yc.xxl-job")
+@ConfigurationProperties(prefix = "openjava.xxl-job")
 public class XxlJobProperties {
 
     /**

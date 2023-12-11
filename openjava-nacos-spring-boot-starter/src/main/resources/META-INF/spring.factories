@@ -1,7 +1,7 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
   org.springframework.cloud.client.discovery.EnableDiscoveryClientImportSelector,\
-  cn.openjava.yc.nacos.controller.inner.NacosController,\
-  cn.openjava.yc.nacos.controller.inner.ApplicationLifeCycleController,\
+  cn.openjava.nacos.controller.inner.NacosController,\
+  cn.openjava.nacos.controller.inner.ApplicationLifeCycleController,\
   cn.openjava.springframework.boot.starter.processor.ConfigurationEncryptionProcessor,\
-  cn.openjava.yc.nacos.service.impl.NacosServiceImpl,\
-  cn.openjava.yc.nacos.service.impl.ApplicationLifeCycleServiceImpl
+  cn.openjava.nacos.service.impl.NacosServiceImpl,\
+  cn.openjava.nacos.service.impl.ApplicationLifeCycleServiceImpl

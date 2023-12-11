@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Configuration;
 
 @Data
 @Configuration
-@ConfigurationProperties(prefix = "yc.minio")
+@ConfigurationProperties(prefix = "openjava.minio")
 public class MinioProperties {
 
     /**

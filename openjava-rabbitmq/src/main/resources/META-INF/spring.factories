@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  cn.openjava.rabbitmq.config.RabbitMQConfig,\
+  cn.openjava.rabbitmq.properties.RabbitMQProperties

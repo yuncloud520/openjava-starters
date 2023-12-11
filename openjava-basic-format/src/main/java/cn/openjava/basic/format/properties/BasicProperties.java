@@ -6,7 +6,7 @@ import org.springframework.stereotype.Component;
 
 @Data
 @Component
-@ConfigurationProperties(prefix = "yc.basic")
+@ConfigurationProperties(prefix = "openjava.basic")
 public class BasicProperties {
     /**
      * 模块

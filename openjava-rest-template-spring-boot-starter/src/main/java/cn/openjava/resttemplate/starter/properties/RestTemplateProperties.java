@@ -5,7 +5,7 @@ import lombok.Setter;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
 
-@ConfigurationProperties(prefix = "yc.rt")
+@ConfigurationProperties(prefix = "openjava.rt")
 @Component
 @Getter
 @Setter

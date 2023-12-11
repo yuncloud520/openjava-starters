@@ -28,5 +28,9 @@
         <module>openjava-rocketmq-spring-boot-starter</module>
         <module>openjava-rest-template-spring-boot-starter</module>
         <module>openjava-openfeign</module>
+        <module>openjava-openfeign-spring-boot-starter</module>
+        <module>openjava-oss-spring-boot-starter</module>
+        <module>openjava-rabbitmq</module>
+        <module>openjava-redis-spring-boot-starter</module>
     </modules>
 </project>

@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 @Getter
 @Setter
 @Component
-@ConfigurationProperties(prefix = "yc.open-api")
+@ConfigurationProperties(prefix = "openjava.open-api")
 public class OpenApiProperties {
     /**
      * 是否开启

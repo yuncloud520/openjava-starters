@@ -5,7 +5,7 @@ import lombok.Setter;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
 
-@ConfigurationProperties(prefix = "yc.es")
+@ConfigurationProperties(prefix = "openjava.es")
 @Component
 @Getter
 @Setter
