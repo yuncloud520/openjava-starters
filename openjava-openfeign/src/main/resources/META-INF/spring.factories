@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  cn.openjava.openfeign.interceptor.FeignInterceptor,\
+  cn.openjava.openfeign.properties.FeignProperties

@@ -21,5 +21,12 @@
         <module>openjava-mybatis-plus-spring-boot-starter</module>
         <module>openjava-nacos-spring-boot-starter</module>
         <module>openjava-openapi-spring-boot-starter</module>
+        <module>openjava-xxl-job-starter</module>
+        <module>openjava-webservice-spring-boot-starter</module>
+        <module>openjava-spring-cloud-gateway-starter</module>
+        <module>openjava-rocketmq</module>
+        <module>openjava-rocketmq-spring-boot-starter</module>
+        <module>openjava-rest-template-spring-boot-starter</module>
+        <module>openjava-openfeign</module>
     </modules>
 </project>

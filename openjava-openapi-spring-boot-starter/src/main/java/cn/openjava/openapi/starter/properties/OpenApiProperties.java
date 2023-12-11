@@ -27,12 +27,12 @@ public class OpenApiProperties {
     /**
      * 服务URL
      */
-    private String serviceUrl = "https://www.yuncloud.cn/";
+    private String serviceUrl = "https://www.openjava.cn/";
 
     /**
      * 作者
      */
-    private String author = "cn-yuncloud";
+    private String author = "cn-openjava";
 
     /**
      * 作者URL
@@ -51,5 +51,5 @@ public class OpenApiProperties {
     /**
      * 基础包
      */
-    private String basePackage = "cn.yuncloud";
+    private String basePackage = "cn.openjava";
 }

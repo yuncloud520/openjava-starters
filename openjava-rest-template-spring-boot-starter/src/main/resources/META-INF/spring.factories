@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  cn.openjava.resttemplate.starter.config.RestTemplateConfig,\
+  cn.openjava.resttemplate.starter.properties.RestTemplateProperties

@@ -9,7 +9,7 @@
         <version>1.0.0-SNAPSHOT</version>
         <relativePath/>
     </parent>
-    <artifactId>yc-nacos-spring-boot-starter</artifactId>
+    <artifactId>openjava-nacos-spring-boot-starter</artifactId>
     <dependencies>
         <dependency>
             <groupId>org.springframework.cloud</groupId>
