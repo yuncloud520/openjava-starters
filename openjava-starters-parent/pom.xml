@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>cn.openjava</groupId>
     <artifactId>openjava-starters-parent</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <packaging>pom</packaging>
     <description>openjava-starters-parent</description>
     <url>https://github.com/yuncloud520/openjava-starters</url>
@@ -301,6 +301,20 @@
             <!--</execution>-->
             <!--</executions>-->
             <!--</plugin>-->
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-gpg-plugin</artifactId>
+                <version>3.1.0</version>
+                <executions>
+                    <execution>
+                        <id>sign-artifacts</id>
+                        <phase>verify</phase>
+                        <goals>
+                            <goal>sign</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
         </plugins>
     </build>
     <!-- 使用分发管理将本项目打成jar包，直接上传到指定服务器 -->
@@ -318,4 +332,5 @@
             <url>http://nexus.yuncloud.cn/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
+
 </project>
